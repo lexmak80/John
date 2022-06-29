@@ -1,1 +1,15 @@
 @import url(/null.css);
+
+/* common style */
+._container {
+  max-width: 856px;
+}
+.__content {
+  max-width: 1132px;
+}
+
+/* header */
+
+/* main */
+
+/* footer */
